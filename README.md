@@ -87,8 +87,7 @@ print(summary)
 
 <H3>Output</H3>
 
-![image](https://github.com/niraunjana/Ex-7-AAI/assets/119395610/bd43b78d-6e42-4a1e-988b-ef1567066201)
-
+![image](https://github.com/Jaiganesh235/Ex-7-AAI/assets/118657189/7e6623de-3c68-4001-b8a2-9a7a0844b6ff)
 
 <H3>Result:</H3>
 Thus ,the program to perform the Text summarization is executed sucessfully.
